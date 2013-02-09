@@ -1,0 +1,11 @@
+title: Experimenting with Blio
+date: 2013-02-10T00:27:53
+language: en
+converter: textile
+tags: Perl
+
+This is the index page.
+
+for now I need to run the build.pl script to generate the page(s).
+
+
