@@ -52,34 +52,7 @@
     </div>
 
     <div class="container">
-<h2>The Project</h2>
-
-<p>This is the project page.</p>
-
-
-
-
-<ul>
-
-  <li><a href="project/index.html">Page in the subdirectory</a></li>
-
-</ul>
-
-
-
-
-
-<a href="project.html">The Project</a>
- | 
-
-<a href="index.html">Experimenting with Blio</a>
- | 
-
-<a href="second_post.html">The second post with Blio</a>
-
-
-
-
+[% content %]
     </div> <!-- /container -->
 
     <!-- Le javascript
