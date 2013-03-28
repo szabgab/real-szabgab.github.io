@@ -1,8 +1,0 @@
-title: Page in the subdirectory
-date: 2013-02-10T00:37:53
-language: en
-converter: textile
-tags: Sub
-
-Text of sub
-

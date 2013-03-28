@@ -1,8 +1,0 @@
-title: The second post with Blio
-date: 2013-02-10T00:27:54
-language: en
-converter: textile
-tags: Perl
-
-
-One second after writing index.txt
