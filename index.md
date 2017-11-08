@@ -11,4 +11,6 @@ Chief editor of the [Perl Weekly](http://perlweekly.com/).
 * [About](/about)
 * [markdown](/markdown)
 * [js](/js)
+* [jquery](/jquery)
+* [json](/json)
 
