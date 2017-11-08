@@ -3,6 +3,6 @@
 
 <script>
 console.log("hello");
-document.getElementById("name").innerHTML("Gábor Szabó");
+document.getElementById("name").innerHTML = "Gábor Szabó";
 </script>
 
