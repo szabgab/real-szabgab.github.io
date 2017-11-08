@@ -20,9 +20,9 @@
 * List
 ```
 
-1 Numbered
-1 List
-1 3rd element
+1. Numbered
+1. List
+1. 3rd element
 
 ```
 1 Numbered
