@@ -10,3 +10,5 @@ Chief editor of the [Perl Weekly](http://perlweekly.com/).
 
 Source is in [this GitHub Repository](https://github.com/szabgab/szabgab.github.io).
 
+[markdown](/markdown)
+
