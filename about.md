@@ -1,6 +1,5 @@
 ---
-title: Abut the szabgab page
-layout: post
+title: About the szabgab page
 ---
 
 # About szabgab
