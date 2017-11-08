@@ -1,3 +1,8 @@
+---
+title: Abut the szabgab page
+---
+
 # About szabgab
 
-Moved to https://github.com/szabgab/szabgab.github.io
+Source is in [this GitHub Repository](https://github.com/szabgab/szabgab.github.io).
+

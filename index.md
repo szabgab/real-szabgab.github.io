@@ -8,7 +8,8 @@ Chief editor of the [Perl Weekly](http://perlweekly.com/).
 
 ## About this site
 
-Source is in [this GitHub Repository](https://github.com/szabgab/szabgab.github.io).
+[About](/about)
+
 
 [markdown](/markdown)
 
