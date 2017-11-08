@@ -1,8 +1,7 @@
 
-<div id="name"></div>
+<div id="text"></div>
 
 <script>
-console.log("hello");
-document.getElementById("name").innerHTML = "Gábor Szabó";
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
 </script>
 
