@@ -1,4 +1,4 @@
 ---
-xlayout: try
+layout: try
 ----
 hello try
