@@ -13,4 +13,5 @@ Chief editor of the [Perl Weekly](http://perlweekly.com/).
 * [js](/js)
 * [jquery](/jquery)
 * [json](/json)
+* [Hiking in Israel](/hike-in-israel/)
 
