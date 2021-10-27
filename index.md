@@ -23,4 +23,4 @@ Author of a [number of tech books](https://leanpub.com/u/szabgab).
 * [jquery](/jquery)
 * [json](/json)
 * [Hiking in Israel](/hike-in-israel/)
-
+* [GitHub Pages using static HTML](/github-pages-in-html/)
