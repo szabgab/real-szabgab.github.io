@@ -13,6 +13,8 @@
 * [The Jewish Virtual library](https://www.jewishvirtuallibrary.org/) has lots of information by country.
 * [Jewish languages](https://www.jewishlanguages.org/)
 * [Jewish Language Project](http://huc.edu/research/institutes-centers-projects/jewish-language-project) at the Hebrew Union College
+* [JIMENA](https://www.jimena.org/) is an organization to preserve and protect the heritage of Sephardic and Mizrahi Jews.
+
 
 ## Countries
 
