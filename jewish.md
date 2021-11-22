@@ -55,15 +55,9 @@
 ## Languages
 
 * [Ladino](ladino.md)
-* Yiddish
-    * [YIVO](https://yivo.org/)
-    * [Beth Shalom Aleichem](https://bethshalomaleichem.co.il/) (in Hebrew)
-    * [Vera Szabo](https://verele.com/)
-    * Duolingo
-    * Yiddish news [Twitter](https://twitter.com/yiddishnews)
-    * [Yiddish 24](https://www.yiddish24.com/)
-    * [Forward in Yidish](https://forward.com/yiddish/)
-
+* [Yiddish](yiddish.md)
+* [Hebrew](hebrew.md)
+https://twitter.com/SarahAroeste
 
 ## People and publications to follow
 

@@ -29,3 +29,5 @@ Author of a [number of tech books](https://leanpub.com/u/szabgab).
 
 * [Jewish languages and culture](/jewish)
 * [Ladino](/ladino)
+* [Yiddish](/yiddish)
+* [Hebrew](/hebrew)
