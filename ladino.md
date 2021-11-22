@@ -11,6 +11,8 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 ## Learn Ladino
 
 * [How and where to learn Ladino?](https://www.myjewishlearning.com/article/how-to-learn-ladino/)
+* [Washington University](https://jewishstudies.washington.edu/learning-ladino/)
+    * [utalk](https://utalk.com/en/plans/ladino)
 
 ### Missing
 
@@ -22,7 +24,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 ## Books - Literature in Ladino
 
-[Amazon](https://www.amazon.com/s?k=ladino&ref=nb_sb_noss_1) has a selection of various books under the serach term **ladino**.
+* [Amazon](https://www.amazon.com/s?k=ladino&ref=nb_sb_noss_1) has a selection of various books under the serach term **ladino**.
 
 
 ## Ladino music
