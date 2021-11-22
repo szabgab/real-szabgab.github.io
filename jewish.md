@@ -85,4 +85,4 @@
 * [The Jewish Publication Society (JPS)](https://jps.org/)
 
 
-
+* [Artists 4 Israel](https://www.artists4israel.org/)
