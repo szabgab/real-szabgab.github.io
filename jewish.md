@@ -24,8 +24,10 @@
 
 ### Hungary
 
-* [Paks 1918: A Pogrom and a Prelude](https://longreads.com/2018/11/08/paks-1918-a-pogrom-and-a-prelude/) [Howard Lovy](https://twitter.com/Howard_Lovy)
 * [Szombat](https://www.szombat.org/)
+* [Új Kelet](https://ujkelet.live/)
+
+* [Paks 1918: A Pogrom and a Prelude](https://longreads.com/2018/11/08/paks-1918-a-pogrom-and-a-prelude/) [Howard Lovy](https://twitter.com/Howard_Lovy)
 
 ### Tunisia, Judeo-Arabic
 
