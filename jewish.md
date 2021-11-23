@@ -57,7 +57,6 @@
 * [Ladino](ladino.md)
 * [Yiddish](yiddish.md)
 * [Hebrew](hebrew.md)
-https://twitter.com/SarahAroeste
 
 ## People and publications to follow
 
