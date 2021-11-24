@@ -8,7 +8,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [The Ladino wikipedia](https://lad.wikipedia.org/)
 * [Ladino at RAE](https://www.rae.es/search/node?keys=ladino&op.x=0&op.y=0) Real Academia Española   (Royal Spanish Academy)
 
-* [Sephardic Studies](https://jewishstudies.washington.edu/sephardic-studies/) [Twitter](https://twitter.com/SephardicUWo
+* [Sephardic Studies](https://jewishstudies.washington.edu/sephardic-studies/) [Twitter](https://twitter.com/SephardicUWo)
 * [Sephardic Brotherhood](https://www.sephardicbrotherhood.com/) The Sephardic Jewish Brotherhood of America - La Ermandad Sefaradi [Twitter](https://twitter.com/SephardicBrothe)
 * [Ladino 21](https://en.ladino21.org/) [Twitter](https://twitter.com/LadinoXXI) [YouTube](https://www.youtube.com/channel/UCbXGQJkl9WL1DnJM8Je0RRg)
 * [American Sephardi Federation (ASF)](https://americansephardi.org/) [Twitter](https://twitter.com/AmericanSephard)
