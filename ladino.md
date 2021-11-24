@@ -55,6 +55,8 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Ladino course on YouTube](https://www.youtube.com/watch?v=H8Pt-AS0ppM&list=PL26BCA5DA78235E0D) using Hebrew as the language of explanation.
 
+* [Spanish - Ladino dictionary](https://www.soysefardi.org/2015/06/diksionaryo-de-ladino-espanyol.html)
+
 
 ## Words and sentences
 
@@ -62,6 +64,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 Vini Echaremos Lashon 1
 
+```
 Shalom                               - Hi (actually a common greeting in Hebrew meaning peace)
 Buenos dias.                         - Good morning
 Este es el kurso de Ladino?          - Is this the Ladino course?
@@ -79,7 +82,8 @@ Lashon   - language
 el kurso - the course
 el elevo - the student
 
-un elevo - a student
+un elevo  - a student
+una elava - a student (female)
 elevos  - students (male)
 elevas  - students (female)
 
@@ -93,31 +97,43 @@ eyos     - they     [ellos]
 ande  where?
 onde  where?
 
-yo so    - I am     [yo soy]
-tu sos   - you are
-el es    - he is
-ella ??? es - She is
-mozotros somos - we are
+
+ser - to be
+yo so          - I am       - yo soy
+tu sos         - you are    - tú eres
+el es          - he is      - él es
+ella es        - She is     - ella es
+mozotros somos - we are     - nosotrol somos
 mozotras somos - we are
-vosotros somos
-eyos son - They are [ellos son]
+vosotros sos   - you are (plural)
+eyos son       - they are   - ellos son
 
 de - from, of
 i  - and     - y
 
-ser - to be
 
+estar - to be
 yo esto
 tu estas
 el esta
 ella esta
-
+mozotros estamos
+mozotras estamos
+vosotros estas
+vosotras estas
 ellos estan
 ellas estan
 
-no estas aki  You are not here
-no esto aki   I am not here
+yo esto en Yerushalayim - I am in Jerusalem
+no estas aki            - You are not here
+yo esto aki             - I am here
+yo no esto aki          - I am not here
 
+bueno  - good (male)
+buena  - gooe (female)
+
+hazino - sick - enfermo
+hazina - sick - enferma
 
 Komo estas?   - How are you?   [¿Cómo estás?]
 Grasias, David. Esto muy bien.                - Thank you David. I am very well.    [Gacias, David. Estoy muy bien.]
@@ -130,7 +146,26 @@ ya  - already
 aki - here
 
 el profesor - the teacher  - el profesor
+un profesor
+una profesora
 
+hijo  - son
+hija  - daughter
+hijos - sons
+hijas - daughters
+
+un tefter - notebook - cuaderno
+tefteres - notebooks - cuadernos
+
+kaza - home - casa
+
+el profesor esta en klasa
+la profesora no esta en klasa
+
+mi nombre es Leah
 
 escrivir - write  [escribir]
+```
+
+next: https://www.youtube.com/watch?v=KyJrutRSQzs&list=PL26BCA5DA78235E0D&index=5
 
