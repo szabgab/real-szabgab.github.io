@@ -50,4 +50,87 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 ## Learning resources
 
 * [Duolingo](https://www.duolingo.com/) has no Ladino course. See [this discussion](https://forum.duolingo.com/comment/7477998/What-about-Ladino-Judaeo-Spanish)
+    and the [guide](https://forum.duolingo.com/comment/15014194) also [apply to be a contributor](https://incubator.duolingo.com/apply).
 * [italki](https://www.italki.com/i/EFbbfc?hl=en_us) has no Ladino teachers.
+
+* [Ladino course on YouTube](https://www.youtube.com/watch?v=H8Pt-AS0ppM&list=PL26BCA5DA78235E0D) using Hebrew as the language of explanation.
+
+
+## Words and sentences
+
+(based on the Hebrew Ladino course)
+
+Vini Echaremos Lashon 1
+
+Shalom                               - Hi (actually a common greeting in Hebrew meaning peace)
+Buenos dias.                         - Good morning
+Este es el kurso de Ladino?          - Is this the Ladino course?
+Si, este es el kurso de Ladino.      - Yes this is the Ladino course.
+Ken sos tu?                          - Who are you?
+Yo so un elevo.                      - I am a student
+Mi nombre es David i este es Yaakov. - My name is David and this is Yaakov.
+De ande shos?                        - Where are you from? [De dónde eres]
+Mozotros somos de Tel Aviv.          - We are from Tel Aviv
+Eyos son de Yerushalayim.            - They are from Jerusalem.
+
+
+Si.      - Yes
+Lashon   - language
+el kurso - the course
+el elevo - the student
+
+un elevo - a student
+elevos  - students (male)
+elevas  - students (female)
+
+yo       - I        [yo]
+tu       - you      [tú]
+el
+mozotros - we       [nosotros]
+mozotras - we (f)   [nosotras]
+eyos     - they     [ellos]
+
+ande  where?
+onde  where?
+
+yo so    - I am     [yo soy]
+tu sos   - you are
+el es    - he is
+ella ??? es - She is
+mozotros somos - we are
+mozotras somos - we are
+vosotros somos
+eyos son - They are [ellos son]
+
+de - from, of
+i  - and     - y
+
+ser - to be
+
+yo esto
+tu estas
+el esta
+ella esta
+
+ellos estan
+ellas estan
+
+no estas aki  You are not here
+no esto aki   I am not here
+
+
+Komo estas?   - How are you?   [¿Cómo estás?]
+Grasias, David. Esto muy bien.                - Thank you David. I am very well.    [Gacias, David. Estoy muy bien.]
+Todos los elevos ya estan en la klasa?        - Are all the students already in the class? [¿Todo los estudiantes ya estan el la clase?]
+Si, todos los elevos ya estan aki.            - Yes, all the students are already here.
+I onde esta el profesor? Ya esta en la klasa? - And where is the professor? Is he already in the class?
+No, el profesor no esta aki.                  - No the professor is not here.
+
+ya  - already
+aki - here
+
+el profesor - the teacher  - el profesor
+
+
+escrivir - write  [escribir]
+
