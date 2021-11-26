@@ -29,6 +29,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 ## How to practice Ladino
 
+* Read Wikipedia (with whom?)
 
 
 ## Books - Literature in Ladino
@@ -94,8 +95,8 @@ mozotros - we       [nosotros]
 mozotras - we (f)   [nosotras]
 eyos     - they     [ellos]
 
-ande  where?
-onde  where?
+ande  - where?
+onde  - where?
 
 
 ser - to be
@@ -158,6 +159,7 @@ un tefter - notebook - cuaderno
 tefteres - notebooks - cuadernos
 
 kaza - home - casa
+el esta en kaza - he is at home
 
 el profesor esta en klasa
 la profesora no esta en klasa
@@ -165,6 +167,37 @@ la profesora no esta en klasa
 mi nombre es Leah
 
 escrivir - write  [escribir]
+
+La direktora - the manager - el empresario
+Yo so la direktora - I am the manager
+Ande esta el profesor? - Where is the teacher?
+No, Sara no esta bien. No, Sara is not well.
+Esta en kasa. (She) is at home.
+Todas las elevas ya estan aki? - Are all the students already here?
+I las otras elevas? - And the other students (female).
+Las otras elevas - the other students
+Rina I Lea estan en la biblioteka. - Rina and Lea are in the library.
+Da estos livros al profesor. - Give these books to the professor.
+Son del kurso. - They are of the course.
+
+otro - other (male)
+otros - others (pl male)
+otra
+otras
+
+el livro - the book
+un livro - a book
+livros   - books
+
+este livro - this book
+estes livros - these books
+
+esta eleva
+estas elevas
+
+Todos los elevos del kurso estan en la biblioteka. All the students of the course are in the library.
+
+
 ```
 
 next: https://www.youtube.com/watch?v=KyJrutRSQzs&list=PL26BCA5DA78235E0D&index=5
