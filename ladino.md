@@ -23,6 +23,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
     * [utalk](https://utalk.com/en/plans/ladino)
 * [Ladino 101 - A Beginner's Course](https://www.sephardicbrotherhood.com/ladino101) of The Sephardic Jewish Brotherhood of America
     * [Video recordings](https://www.youtube.com/watch?v=MTgs0VlkP_E&list=PLG7gXVhDoTAKrqy1jGn4QcQ4Mwk6YB8Tc&index=2)
+    * [Karen Sarhon](https://jwa.org/encyclopedia/article/sarhon-karen)
 
 ### Missing
 
