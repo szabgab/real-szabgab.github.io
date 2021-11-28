@@ -58,6 +58,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Spanish - Ladino dictionary](https://www.soysefardi.org/2015/06/diksionaryo-de-ladino-espanyol.html)
 
+* [Spanish-Ladino](https://orbilat.com/Languages/Spanish-Ladino/index.html)
 
 ## Words and sentences
 
@@ -100,38 +101,22 @@ onde  - where?
 
 
 ser - to be
-yo so          - I am       - yo soy
-tu sos         - you are    - tú eres
-el es          - he is      - él es
-ella es        - She is     - ella es
-mozotros somos - we are     - nosotrol somos
-mozotras somos - we are
-vosotros sos   - you are (plural)
-eyos son       - they are   - ellos son
+yo so            - yo soy
+tu sos           - tú eres
+el es            - él es
+ella es          - ella es
+mozotros somos   - nosotrol somos
+mozotras somos
+vozotros sos
+eyos son         - ellos son
 
 de - from, of
 i  - and     - y
-
-
-estar - to be
-yo esto
-tu estas
-el esta
-ella esta
-mozotros estamos
-mozotras estamos
-vosotros estas
-vosotras estas
-ellos estan
-ellas estan
 
 yo esto en Yerushalayim - I am in Jerusalem
 no estas aki            - You are not here
 yo esto aki             - I am here
 yo no esto aki          - I am not here
-
-bueno  - good (male)
-buena  - gooe (female)
 
 hazino - sick - enfermo
 hazina - sick - enferma
