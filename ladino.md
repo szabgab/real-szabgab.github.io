@@ -21,6 +21,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [How and where to learn Ladino?](https://www.myjewishlearning.com/article/how-to-learn-ladino/)
 * [University of Washington](https://jewishstudies.washington.edu/learning-ladino/)
     * [utalk](https://utalk.com/en/plans/ladino)
+* [Ladino 101 - A Beginner's Course](https://www.sephardicbrotherhood.com/ladino101) of The Sephardic Jewish Brotherhood of America
 
 ### Missing
 
@@ -60,130 +61,10 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Spanish-Ladino](https://orbilat.com/Languages/Spanish-Ladino/index.html)
 
-## Words and sentences
+### Libre Lingo
 
-(based on the Hebrew Ladino course)
-
-Vini Echaremos Lashon 1
-
-```
-Shalom                               - Hi (actually a common greeting in Hebrew meaning peace)
-Buenos dias.                         - Good morning
-Este es el kurso de Ladino?          - Is this the Ladino course?
-Si, este es el kurso de Ladino.      - Yes this is the Ladino course.
-Ken sos tu?                          - Who are you?
-Yo so un elevo.                      - I am a student
-Mi nombre es David i este es Yaakov. - My name is David and this is Yaakov.
-De ande shos?                        - Where are you from? [De dónde eres]
-Mozotros somos de Tel Aviv.          - We are from Tel Aviv
-Eyos son de Yerushalayim.            - They are from Jerusalem.
-
-
-Si.      - Yes
-Lashon   - language
-el kurso - the course
-el elevo - the student
-
-un elevo  - a student
-una elava - a student (female)
-elevos  - students (male)
-elevas  - students (female)
-
-yo       - I        [yo]
-tu       - you      [tú]
-el
-mozotros - we       [nosotros]
-mozotras - we (f)   [nosotras]
-eyos     - they     [ellos]
-
-ande  - where?
-onde  - where?
-
-
-ser - to be
-yo so            - yo soy
-tu sos           - tú eres
-el es            - él es
-ella es          - ella es
-mozotros somos   - nosotrol somos
-mozotras somos
-vozotros sos
-eyos son         - ellos son
-
-de - from, of
-i  - and     - y
-
-yo esto en Yerushalayim - I am in Jerusalem
-no estas aki            - You are not here
-yo esto aki             - I am here
-yo no esto aki          - I am not here
-
-hazino - sick - enfermo
-hazina - sick - enferma
-
-Komo estas?   - How are you?   [¿Cómo estás?]
-Grasias, David. Esto muy bien.                - Thank you David. I am very well.    [Gacias, David. Estoy muy bien.]
-Todos los elevos ya estan en la klasa?        - Are all the students already in the class? [¿Todo los estudiantes ya estan el la clase?]
-Si, todos los elevos ya estan aki.            - Yes, all the students are already here.
-I onde esta el profesor? Ya esta en la klasa? - And where is the professor? Is he already in the class?
-No, el profesor no esta aki.                  - No the professor is not here.
-
-ya  - already
-aki - here
-
-el profesor - the teacher  - el profesor
-un profesor
-una profesora
-
-hijo  - son
-hija  - daughter
-hijos - sons
-hijas - daughters
-
-un tefter - notebook - cuaderno
-tefteres - notebooks - cuadernos
-
-kaza - home - casa
-el esta en kaza - he is at home
-
-el profesor esta en klasa
-la profesora no esta en klasa
-
-mi nombre es Leah
-
-escrivir - write  [escribir]
-
-La direktora - the manager - el empresario
-Yo so la direktora - I am the manager
-Ande esta el profesor? - Where is the teacher?
-No, Sara no esta bien. No, Sara is not well.
-Esta en kasa. (She) is at home.
-Todas las elevas ya estan aki? - Are all the students already here?
-I las otras elevas? - And the other students (female).
-Las otras elevas - the other students
-Rina I Lea estan en la biblioteka. - Rina and Lea are in the library.
-Da estos livros al profesor. - Give these books to the professor.
-Son del kurso. - They are of the course.
-
-otro - other (male)
-otros - others (pl male)
-otra
-otras
-
-el livro - the book
-un livro - a book
-livros   - books
-
-este livro - this book
-estes livros - these books
-
-esta eleva
-estas elevas
-
-Todos los elevos del kurso estan en la biblioteka. All the students of the course are in the library.
-
-
-```
-
-next: https://www.youtube.com/watch?v=KyJrutRSQzs&list=PL26BCA5DA78235E0D&index=5
+* [LibreLingo](https://librelingo.app/)
+* [Ladino for Hebrew speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-Hebrew)
+* [Ladino for English speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-English)
+* [Ladino for Spanish speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-Spanish)
 
