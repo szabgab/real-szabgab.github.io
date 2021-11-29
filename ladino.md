@@ -75,6 +75,11 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [Meet Bryan Kirschen, Romance Languages](https://www.binghamton.edu/news/story/693/meet-bryan-kirschen-romance-languages)
 * [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
 
+## Videos
+
+* [The Ladino language, casually spoken | Sara speaking Ladino | Wikitongues](https://www.youtube.com/watch?v=E3qV-_Ba4PU)
+* [En Turquía se habla castellano antiguo](https://www.youtube.com/watch?v=9KpXecj1XZw)
+
 
 
 ## TODO
