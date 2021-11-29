@@ -70,3 +70,18 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [Ladino for English speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-English)
 * [Ladino for Spanish speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-Spanish)
 
+
+* Bryan Kirschen [Ladino Lingust](https://ladinolinguist.com/)
+* [Meet Bryan Kirschen, Romance Languages](https://www.binghamton.edu/news/story/693/meet-bryan-kirschen-romance-languages)
+* [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
+
+
+
+## TODO
+
+* Collection of Ladino songs with lyrics and translations.
+* Collection of Ladion text read aloud by someone.
+* Interview series in Ladino people telling stories. (Video, or just sound with text that could be read)
+
+* Match people who would like to practice Ladino with people who already speak the language. (italki?)
+
