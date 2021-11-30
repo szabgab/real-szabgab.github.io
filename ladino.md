@@ -80,6 +80,13 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [The Ladino language, casually spoken | Sara speaking Ladino | Wikitongues](https://www.youtube.com/watch?v=E3qV-_Ba4PU)
 * [En Turquía se habla castellano antiguo](https://www.youtube.com/watch?v=9KpXecj1XZw)
 
+## Ladino Text
+
+Ladino texts for reading and for extracting sentences to be used for the Ladino course on LibreLingo.
+
+* [Wikipedia in Ladino](https://lad.wikipedia.org/)
+* Songs
+* Books written in Ladino
 
 
 ## TODO
