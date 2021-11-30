@@ -80,6 +80,16 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [The Ladino language, casually spoken -  Sara speaking Ladino - Wikitongues](https://www.youtube.com/watch?v=E3qV-_Ba4PU)
 * [En Turquía se habla castellano antiguo](https://www.youtube.com/watch?v=9KpXecj1XZw)
+* [1492 - El Otro Camino](https://www.youtube.com/watch?v=wrNhMKFDPuk) (The short history of the Sephardic Jews in Spanish with English subtitles)
+
+* [Language shift and attitudes](https://www.oeaw.ac.at/vlach/collections/judeo-spanish/judeo-spanish-in-istanbul/video-collection/language-shift-and-attitudes/) a series of interviews in Ladino
+    * [I would choose Ladino](https://www.youtube.com/watch?v=qGlhinGj_UE) (in Ladino with Viki Diler)
+* [Stella Levi - Ladino](https://www.youtube.com/watch?v=fS6L5N5oiwE)
+
+## Music
+
+* [LA SERENA - Sephardic Music - Ladino Love Song - Ke Guo](https://www.youtube.com/watch?v=gJjACC9O7kE)
+* [Jewish music in The International Sephardi Music Festival in Cordoba- Ancient Groove](https://www.youtube.com/watch?v=T6itZDX3I6I)
 
 ## Ladino Text
 
