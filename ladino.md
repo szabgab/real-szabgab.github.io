@@ -29,7 +29,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 ### Missing
 
 * [Duolingo](https://www.duolingo.com/) - nope
-* [italki](https://www.italki.com/i/EFbbfc?hl=en_us) - [nope](https://www.italki.com/teachers/ladino(judeospanish))
+* [italki](https://www.italki.com/i/EFbbfc?hl=en_us) - [no teachers found](https://www.italki.com/teachers/ladino(judeospanish))
 
 ## How to practice Ladino
 
@@ -75,6 +75,8 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * Bryan Kirschen [Ladino Lingust](https://ladinolinguist.com/)
 * [Meet Bryan Kirschen, Romance Languages](https://www.binghamton.edu/news/story/693/meet-bryan-kirschen-romance-languages)
 * [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
+
+* [Documenting Judeo-Spanish](https://documentingjudeospanish.com/) through the cursive Solitreo writings of the Sephardim
 
 ## Videos
 
