@@ -35,6 +35,11 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * Read Wikipedia (with whom?)
 
+## Facebook
+
+* [Ladino Forever](https://www.facebook.com/ladinoforever/)
+* [Ladino](https://www.facebook.com/Ladino-%D7%9C%D7%90%D7%93%D7%99%D7%A0%D7%95-515267728561389/)
+* [Search for Ladino related groups](https://www.facebook.com/search/groups/?q=ladino)
 
 ## Books - Literature in Ladino
 
