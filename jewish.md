@@ -14,6 +14,8 @@
 * [Jewish languages](https://www.jewishlanguages.org/)
 * [Jewish Language Project](http://huc.edu/research/institutes-centers-projects/jewish-language-project) at the Hebrew Union College
 * [JIMENA](https://www.jimena.org/) is an organization to preserve and protect the heritage of Sephardic and Mizrahi Jews.
+* [JTA - Jewish Telegraphic Agency](https://www.jta.org/)
+
 
 
 ## Countries
