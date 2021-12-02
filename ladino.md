@@ -16,6 +16,8 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Ladino Israel](http://www.ladino-israel.org) (in Hebrew)
 
+* [Esefarad](https://esefarad.com/) Noticias del Mundo Sefaradí
+
 
 ## Learn Ladino
 
@@ -50,8 +52,10 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Yasmin Levy](https://www.yasminlevy.net/)
 * [Sarah Aroeste](https://saraharoeste.com/)  [Twitter](https://twitter.com/SarahAroeste)
+* [Mor Karbasi](https://www.morkarbasi.com/)
 * [LA SERENA - Sephardic Music - Ladino Love Song - Ke Guo](https://www.youtube.com/watch?v=gJjACC9O7kE)
 * [Jewish music in The International Sephardi Music Festival in Cordoba- Ancient Groove](https://www.youtube.com/watch?v=T6itZDX3I6I)
+* [Tres de la Noche - Los Pasharos Sefaradis](https://www.youtube.com/watch?v=4JSLHVRJiRE)
 
 
 ## Ladino dictionary
