@@ -47,6 +47,10 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Amazon](https://www.amazon.com/s?k=ladino&ref=nb_sb_noss_1) has a selection of various books under the search term **ladino**.
 
+* [Beginner's Ladino](https://www.amazon.com/Beginners-Ladino-Spanish-English-Markova-ebook/dp/B003554D7S/) by Alla Markova
+* [Diccionario básico Ladino - Español](https://www.amazon.com/Diccionario-básico-Ladino-Español-Biblioteca-ebook/dp/B00Y8RYD72/) - Basic Ladino-Spanish dictionary
+* [El Kurtijo Enkantado](https://www.amazon.com/Kurtijo-Enkantado-Matilda-Koen-Sarano/dp/9944994960) by Matilda Koen-Sarano
+
 
 ## Ladino music
 
