@@ -18,6 +18,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Esefarad](https://esefarad.com/) Noticias del Mundo Sefaradí
 
+* [Greek Jews Holocaust Survivors](https://greekjewsholocaustsurvivors.art/)
 
 ## Learn Ladino
 
