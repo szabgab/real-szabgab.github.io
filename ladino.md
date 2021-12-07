@@ -8,6 +8,9 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [The Ladino wikipedia](https://lad.wikipedia.org/)
 * [Ladino at RAE](https://www.rae.es/search/node?keys=ladino&op.x=0&op.y=0) Real Academia Española   (Royal Spanish Academy)
 
+* [Istanbul Sephardic Center](https://istanbulsephardiccenter.com/)  mostly in Trukish.
+    * [El Amaneser](https://istanbulsephardiccenter.com/el-amaneser/) the Ladino newspaper
+
 * [Sephardic Studies at the University of Washington](https://jewishstudies.washington.edu/sephardic-studies/) [Twitter](https://twitter.com/SephardicUW)
     * [The Sephardic Studies Digital Collection](https://content.lib.washington.edu/sephardicweb/index.html)
 * [Sephardic Brotherhood](https://www.sephardicbrotherhood.com/) The Sephardic Jewish Brotherhood of America - La Ermandad Sefaradi [Twitter](https://twitter.com/SephardicBrothe)
@@ -20,7 +23,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Greek Jews Holocaust Survivors](https://greekjewsholocaustsurvivors.art/)
 
-* [AKI YERUSHALAYIM](https://akiyerushalayim.com/) 
+* [AKI YERUSHALAYIM](https://akiyerushalayim.com/)
 
 
 ## Learn Ladino
