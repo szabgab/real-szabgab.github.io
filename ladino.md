@@ -15,6 +15,10 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
     * [The Sephardic Studies Digital Collection](https://content.lib.washington.edu/sephardicweb/index.html)
 * [Sephardic Brotherhood](https://www.sephardicbrotherhood.com/) The Sephardic Jewish Brotherhood of America - La Ermandad Sefaradi [Twitter](https://twitter.com/SephardicBrothe)
 * [Ladino 21](https://en.ladino21.org/) [Twitter](https://twitter.com/LadinoXXI) [YouTube](https://www.youtube.com/channel/UCbXGQJkl9WL1DnJM8Je0RRg)
+    * There are both courses and private classes on Ladino 21
+    * Dr. Carlos Yebra López
+    * Mr. Alejandro Acero Ayuda
+    * Rabbi Eliezer Papo
 * [American Sephardi Federation (ASF)](https://americansephardi.org/) [Twitter](https://twitter.com/AmericanSephard)
 
 * [Ladino Israel](http://www.ladino-israel.org) (in Hebrew)
