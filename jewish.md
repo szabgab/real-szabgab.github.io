@@ -31,6 +31,11 @@
 
 * [Paks 1918: A Pogrom and a Prelude](https://longreads.com/2018/11/08/paks-1918-a-pogrom-and-a-prelude/) [Howard Lovy](https://twitter.com/Howard_Lovy)
 
+### The Netherlands
+
+* [Joods](https://www.joods.nl/)
+
+
 ### Tunisia, Judeo-Arabic
 
 * [The Story of Daniel Hagège: Judeo-Arabic Author and Documenter of Tunisian Jewry](https://blog.nli.org.il/en/lbh_hagege/)
@@ -89,3 +94,6 @@
 
 
 * [Artists 4 Israel](https://www.artists4israel.org/)
+
+
+

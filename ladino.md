@@ -77,6 +77,10 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [LA SERENA - Sephardic Music - Ladino Love Song - Ke Guo](https://www.youtube.com/watch?v=gJjACC9O7kE)
 * [Jewish music in The International Sephardi Music Festival in Cordoba- Ancient Groove](https://www.youtube.com/watch?v=T6itZDX3I6I)
 * [Tres de la Noche - Los Pasharos Sefaradis](https://www.youtube.com/watch?v=4JSLHVRJiRE)
+* [Light in Babylon](https://www.lightinbabylon.com/)
+* [Maayan Band](https://www.maayanband.com/)
+* [Yamma Ensamble](https://yammaensemble.com/)
+* [Nani Music](https://nanimusic.com/)
 
 
 ## Ladino dictionary
