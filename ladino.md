@@ -30,9 +30,10 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [Greek Jews Holocaust Survivors](https://greekjewsholocaustsurvivors.art/)
 
 * [AKI YERUSHALAYIM](https://akiyerushalayim.com/)
-* [Los Shadarim](https://www.shadarim.com/) - 
+* [Los Shadarim](https://www.shadarim.com/) - A group of aktivists to advance the Judeo-Espanyol (aka. Ladino, Judeo-Spanish) language.
 * [Sara Bunin Benor](http://huc.edu/directory/sarah-bunin-benor) Professor of Contemporary Jewish Studies and Linguistics; Vice Provost at Hebrew Union College
-
+* [Ora Schwarzwald](https://biu.academia.edu/oschwarzwald)
+* [Derya Agis](https://deryaagis.weebly.com/), Linguist, University of the People
 
 ## Learn Ladino
 
@@ -122,6 +123,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [Judit R. Cohen](https://www.judithcohen.ca/) - Ethnomusicologist, performer. York University.
 * Rachel Amado Bortnick, Founder, [Ladinokomunita](https://ladinokomunita.groups.io/)
     * [utalki interview](https://utalk.com/news/meet-our-speakers-rachel-bortnick-ladino/)
+* [Hannah S. Pressman](https://hannahpressman.com/) scholar, writer, editor
 
 ## Videos
 
