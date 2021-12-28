@@ -1,11 +1,14 @@
 # Ladino - aka. Judeo Spanish
 
 Ladino is the languages of the descendants of the Jews who were expelled from Spain in 1492.
+Others, espically the speakers call it Judeo-Espanyol or just Espanyol.
+
+See the wikipedia entry in English about [Ladino or Judeo-Spanish](https://en.wikipedia.org/wiki/Judaeo-Spanish).
+
+You can also tahe a look at the [Ladino version of the wikipedia](https://lad.wikipedia.org/) There are not many pages and most of them are rather short,
+but it can be interesting to read.
 
 
-
-* [Ladino or Judeo-Spanish](https://en.wikipedia.org/wiki/Judaeo-Spanish) by wikipedia
-* [The Ladino wikipedia](https://lad.wikipedia.org/)
 * [Ladino at RAE](https://www.rae.es/search/node?keys=ladino&op.x=0&op.y=0) Real Academia Española   (Royal Spanish Academy)
 
 * [Istanbul Sephardic Center](https://istanbulsephardiccenter.com/)  mostly in Trukish.
@@ -17,23 +20,13 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [Sephardic Brotherhood](https://www.sephardicbrotherhood.com/) The Sephardic Jewish Brotherhood of America - La Ermandad Sefaradi [Twitter](https://twitter.com/SephardicBrothe)
 * [Ladino 21](https://en.ladino21.org/) [Twitter](https://twitter.com/LadinoXXI) [YouTube](https://www.youtube.com/channel/UCbXGQJkl9WL1DnJM8Je0RRg)
     * There are both courses and private classes on Ladino 21
-    * Dr. Carlos Yebra López
-    * Mr. Alejandro Acero Ayuda
-    * Rabbi Eliezer Papo
-* [American Sephardi Federation (ASF)](https://americansephardi.org/) [Twitter](https://twitter.com/AmericanSephard)
+    * [American Sephardi Federation (ASF)](https://americansephardi.org/) [Twitter](https://twitter.com/AmericanSephard)
 * [Centro Sefarad Israel](http://www.casasefarad-israel.es/)
-
 * [Ladino Israel](http://www.ladino-israel.org) (in Hebrew)
-
 * [Esefarad](https://esefarad.com/) Noticias del Mundo Sefaradí
-
 * [Greek Jews Holocaust Survivors](https://greekjewsholocaustsurvivors.art/)
-
 * [AKI YERUSHALAYIM](https://akiyerushalayim.com/)
 * [Los Shadarim](https://www.shadarim.com/) - A group of aktivists to advance the Judeo-Espanyol (aka. Ladino, Judeo-Spanish) language.
-* [Sara Bunin Benor](http://huc.edu/directory/sarah-bunin-benor) Professor of Contemporary Jewish Studies and Linguistics; Vice Provost at Hebrew Union College
-* [Ora Schwarzwald](https://biu.academia.edu/oschwarzwald)
-* [Derya Agis](https://deryaagis.weebly.com/), Linguist, University of the People
 
 ## Learning resources
 
@@ -50,6 +43,8 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Spanish - Ladino dictionary](https://www.soysefardi.org/2015/06/diksionaryo-de-ladino-espanyol.html)
 * [Spanish-Ladino](https://orbilat.com/Languages/Spanish-Ladino/index.html)
+* [Beginner's Ladino](https://www.amazon.com/Beginners-Ladino-Spanish-English-Markova-ebook/dp/B003554D7S/) by Alla Markova
+* [Diccionario básico Ladino - Español](https://www.amazon.com/Diccionario-básico-Ladino-Español-Biblioteca-ebook/dp/B00Y8RYD72/) - Basic Ladino-Spanish dictionary
 
 * [How and where to learn Ladino?](https://www.myjewishlearning.com/article/how-to-learn-ladino/)
 
@@ -57,12 +52,9 @@ There are several Universities that offer Ladino in some way:
 
 * [University of Washington](https://jewishstudies.washington.edu/learning-ladino/)
 
-
-## How to practice Ladino
-
-* Read Wikipedia (with whom?)
-
 ## Facebook
+
+There are several Ladino-related Facebook groups and pages:
 
 * [Ladino Forever](https://www.facebook.com/ladinoforever/)
 * [Ladino](https://www.facebook.com/Ladino-%D7%9C%D7%90%D7%93%D7%99%D7%A0%D7%95-515267728561389/)
@@ -74,14 +66,31 @@ There are several Universities that offer Ladino in some way:
 * [Zoom University Ladino Learners](https://www.facebook.com/groups/2416437988456841/)
 * [Search for Ladino related groups](https://www.facebook.com/search/groups/?q=ladino)
 
+
 ## Books - Literature in Ladino
 
 * [Amazon](https://www.amazon.com/s?k=ladino&ref=nb_sb_noss_1) has a selection of various books under the search term **ladino**.
-
-* [Beginner's Ladino](https://www.amazon.com/Beginners-Ladino-Spanish-English-Markova-ebook/dp/B003554D7S/) by Alla Markova
-* [Diccionario básico Ladino - Español](https://www.amazon.com/Diccionario-básico-Ladino-Español-Biblioteca-ebook/dp/B00Y8RYD72/) - Basic Ladino-Spanish dictionary
 * [El Kurtijo Enkantado](https://www.amazon.com/Kurtijo-Enkantado-Matilda-Koen-Sarano/dp/9944994960) by Matilda Koen-Sarano
 
+## People
+
+* Bryan Kirschen [Ladino Lingust](https://ladinolinguist.com/)
+    * [Meet Bryan Kirschen, Romance Languages](https://www.binghamton.edu/news/story/693/meet-bryan-kirschen-romance-languages)
+* [Derya Agis](https://deryaagis.weebly.com/), Linguist, University of the People
+
+* [Dr. Rey Romero](https://www.uhd.edu/academics/humanities/undergraduate-programs/spanish/Pages/bios-romero.aspx) Associate Professor of Spanish at Univeristy of Houston Downtown.
+* [Hannah S. Pressman](https://hannahpressman.com/) scholar, writer, editor
+* [Judit R. Cohen](https://www.judithcohen.ca/) - Ethnomusicologist, performer. York University.
+* [Ora Schwarzwald](https://biu.academia.edu/oschwarzwald)
+* Rachel Amado Bortnick, Founder, [Ladinokomunita](https://ladinokomunita.groups.io/)
+    * [utalki interview](https://utalk.com/news/meet-our-speakers-rachel-bortnick-ladino/)
+* [Sara Bunin Benor](http://huc.edu/directory/sarah-bunin-benor) Professor of Contemporary Jewish Studies and Linguistics; Vice Provost at Hebrew Union College
+* Dr. Carlos Yebra López
+* Mr. Alejandro Acero Ayuda
+* Rabbi Eliezer Papo
+
+* [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
+* [Documenting Judeo-Spanish](https://documentingjudeospanish.com/) through the cursive Solitreo writings of the Sephardim
 
 ## Ladino music
 
@@ -110,20 +119,11 @@ There are several Universities that offer Ladino in some way:
 * [Ladino for English speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-English)
 * [Ladino for Spanish speakers](https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-Spanish)
 
-
-* Bryan Kirschen [Ladino Lingust](https://ladinolinguist.com/)
-* [Meet Bryan Kirschen, Romance Languages](https://www.binghamton.edu/news/story/693/meet-bryan-kirschen-romance-languages)
-* [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
-
-* [Documenting Judeo-Spanish](https://documentingjudeospanish.com/) through the cursive Solitreo writings of the Sephardim
-
-* [Dr. Rey Romero](https://www.uhd.edu/academics/humanities/undergraduate-programs/spanish/Pages/bios-romero.aspx) Associate Professor of Spanish at Univeristy of Houston Downtown.
-* [Judit R. Cohen](https://www.judithcohen.ca/) - Ethnomusicologist, performer. York University.
-* Rachel Amado Bortnick, Founder, [Ladinokomunita](https://ladinokomunita.groups.io/)
-    * [utalki interview](https://utalk.com/news/meet-our-speakers-rachel-bortnick-ladino/)
-* [Hannah S. Pressman](https://hannahpressman.com/) scholar, writer, editor
-
 ## Videos
+
+* I created a [Ladino playlist](https://www.youtube.com/playlist?list=PLpSVfGBL5HR2AaU9KvGXmUa5hn8iYtOLq) using interviews in Ladino.
+
+Some of them are also listed here:
 
 * [The Ladino language, casually spoken -  Sara speaking Ladino - Wikitongues](https://www.youtube.com/watch?v=E3qV-_Ba4PU)
 * [En Turquía se habla castellano antiguo](https://www.youtube.com/watch?v=9KpXecj1XZw)
@@ -132,6 +132,7 @@ There are several Universities that offer Ladino in some way:
 * [Language shift and attitudes](https://www.oeaw.ac.at/vlach/collections/judeo-spanish/judeo-spanish-in-istanbul/video-collection/language-shift-and-attitudes/) a series of interviews in Ladino
     * [I would choose Ladino](https://www.youtube.com/watch?v=qGlhinGj_UE) (in Ladino with Viki Diler)
 * [Stella Levi - Ladino](https://www.youtube.com/watch?v=fS6L5N5oiwE)
+
 
 ## Ladino Text (corpus)
 
