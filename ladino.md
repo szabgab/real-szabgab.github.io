@@ -13,6 +13,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Sephardic Studies at the University of Washington](https://jewishstudies.washington.edu/sephardic-studies/) [Twitter](https://twitter.com/SephardicUW)
     * [The Sephardic Studies Digital Collection](https://content.lib.washington.edu/sephardicweb/index.html)
+    * [Devin E. Naar](http://devinenaar.com/) The Isaac Alhadeff Professor in Sephardic Studies, Associate Professor of History & Jewish Studies, Jackson School of International Studies, University of Washington
 * [Sephardic Brotherhood](https://www.sephardicbrotherhood.com/) The Sephardic Jewish Brotherhood of America - La Ermandad Sefaradi [Twitter](https://twitter.com/SephardicBrothe)
 * [Ladino 21](https://en.ladino21.org/) [Twitter](https://twitter.com/LadinoXXI) [YouTube](https://www.youtube.com/channel/UCbXGQJkl9WL1DnJM8Je0RRg)
     * There are both courses and private classes on Ladino 21
@@ -20,6 +21,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
     * Mr. Alejandro Acero Ayuda
     * Rabbi Eliezer Papo
 * [American Sephardi Federation (ASF)](https://americansephardi.org/) [Twitter](https://twitter.com/AmericanSephard)
+* [Centro Sefarad Israel](http://www.casasefarad-israel.es/)
 
 * [Ladino Israel](http://www.ladino-israel.org) (in Hebrew)
 
@@ -28,6 +30,8 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [Greek Jews Holocaust Survivors](https://greekjewsholocaustsurvivors.art/)
 
 * [AKI YERUSHALAYIM](https://akiyerushalayim.com/)
+* [Los Shadarim](https://www.shadarim.com/) - 
+* [Sara Bunin Benor](http://huc.edu/directory/sarah-bunin-benor) Professor of Contemporary Jewish Studies and Linguistics; Vice Provost at Hebrew Union College
 
 
 ## Learn Ladino
@@ -114,6 +118,11 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 
 * [Documenting Judeo-Spanish](https://documentingjudeospanish.com/) through the cursive Solitreo writings of the Sephardim
 
+* [Dr. Rey Romero](https://www.uhd.edu/academics/humanities/undergraduate-programs/spanish/Pages/bios-romero.aspx) Associate Professor of Spanish at Univeristy of Houston Downtown.
+* [Judit R. Cohen](https://www.judithcohen.ca/) - Ethnomusicologist, performer. York University.
+* Rachel Amado Bortnick, Founder, [Ladinokomunita](https://ladinokomunita.groups.io/)
+    * [utalki interview](https://utalk.com/news/meet-our-speakers-rachel-bortnick-ladino/)
+
 ## Videos
 
 * [The Ladino language, casually spoken -  Sara speaking Ladino - Wikitongues](https://www.youtube.com/watch?v=E3qV-_Ba4PU)
@@ -132,8 +141,15 @@ Ladino texts for reading and for extracting sentences to be used for the Ladino 
 * Songs
 * Books written in Ladino
 
+## Ladino scripts
+
+* [Rashi script](https://en.wikipedia.org/wiki/Rashi_script)
+* [Solitreo](https://en.wikipedia.org/wiki/Solitreo)
 
 ## TODO
+
+* Work on the Ladino courses at LibreLingo.
+* Create a platform for Ladino learners to talk to Ladino speakers and to Ladino teachers. (use italki?)
 
 * Collection of Ladino songs with lyrics and translations.
 * Collection of Ladino text read aloud by someone.
