@@ -86,6 +86,7 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [Maayan Band](https://www.maayanband.com/)
 * [Yamma Ensamble](https://yammaensemble.com/)
 * [Nani Music](https://nanimusic.com/)
+* [Avishai Cohen](https://avishaicohen.com/)
 
 
 ## Ladino dictionary
