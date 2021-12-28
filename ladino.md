@@ -35,19 +35,28 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [Ora Schwarzwald](https://biu.academia.edu/oschwarzwald)
 * [Derya Agis](https://deryaagis.weebly.com/), Linguist, University of the People
 
-## Learn Ladino
+## Learning resources
 
-* [How and where to learn Ladino?](https://www.myjewishlearning.com/article/how-to-learn-ladino/)
-* [University of Washington](https://jewishstudies.washington.edu/learning-ladino/)
-    * [utalk](https://utalk.com/en/plans/ladino)
+* [Duolingo](https://www.duolingo.com/) has no Ladino course. See [this discussion](https://forum.duolingo.com/comment/7477998/What-about-Ladino-Judaeo-Spanish)
+  and the [guide](https://forum.duolingo.com/comment/15014194) also [apply to be a contributor](https://incubator.duolingo.com/apply).
+* [italki](https://www.italki.com/i/EFbbfc?hl=en_us) has [no Ladino teachers](https://www.italki.com/teachers/ladino(judeospanish)).
+  However I exchanged email with their support and as they have Ladino listed on their site one can apply to be a teacher or a community tutor.
+* [Ladino course on YouTube](https://www.youtube.com/watch?v=H8Pt-AS0ppM&list=PL26BCA5DA78235E0D) using Hebrew as the language of explanation.
 * [Ladino 101 - A Beginner's Course](https://www.sephardicbrotherhood.com/ladino101) of The Sephardic Jewish Brotherhood of America
     * [Video recordings](https://www.youtube.com/watch?v=MTgs0VlkP_E&list=PLG7gXVhDoTAKrqy1jGn4QcQ4Mwk6YB8Tc&index=2)
     * [Karen Sarhon](https://jwa.org/encyclopedia/article/sarhon-karen)
+* [utalk](https://utalk.com/) has a [Ladino course](https://utalk.com/en/plans/ladino) with voice.
 
-### Missing
 
-* [Duolingo](https://www.duolingo.com/) - nope
-* [italki](https://www.italki.com/i/EFbbfc?hl=en_us) - [no teachers found](https://www.italki.com/teachers/ladino(judeospanish))
+* [Spanish - Ladino dictionary](https://www.soysefardi.org/2015/06/diksionaryo-de-ladino-espanyol.html)
+* [Spanish-Ladino](https://orbilat.com/Languages/Spanish-Ladino/index.html)
+
+* [How and where to learn Ladino?](https://www.myjewishlearning.com/article/how-to-learn-ladino/)
+
+There are several Universities that offer Ladino in some way:
+
+* [University of Washington](https://jewishstudies.washington.edu/learning-ladino/)
+
 
 ## How to practice Ladino
 
@@ -94,18 +103,6 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
 * [English Ladino dictionary for Android](https://play.google.com/store/apps/details?id=ru.vddevelopment.ref.enladen&hl=en_US&gl=US)
 * [Online English-Ladino dictionary](https://glosbe.com/lad/en)
 
-## Learning resources
-
-* [Duolingo](https://www.duolingo.com/) has no Ladino course. See [this discussion](https://forum.duolingo.com/comment/7477998/What-about-Ladino-Judaeo-Spanish)
-    and the [guide](https://forum.duolingo.com/comment/15014194) also [apply to be a contributor](https://incubator.duolingo.com/apply).
-* [italki](https://www.italki.com/i/EFbbfc?hl=en_us) has no Ladino teachers.
-
-* [Ladino course on YouTube](https://www.youtube.com/watch?v=H8Pt-AS0ppM&list=PL26BCA5DA78235E0D) using Hebrew as the language of explanation.
-
-* [Spanish - Ladino dictionary](https://www.soysefardi.org/2015/06/diksionaryo-de-ladino-espanyol.html)
-
-* [Spanish-Ladino](https://orbilat.com/Languages/Spanish-Ladino/index.html)
-
 ### Libre Lingo
 
 * [LibreLingo](https://librelingo.app/)
@@ -136,30 +133,34 @@ Ladino is the languages of the descendants of the Jews who were expelled from Sp
     * [I would choose Ladino](https://www.youtube.com/watch?v=qGlhinGj_UE) (in Ladino with Viki Diler)
 * [Stella Levi - Ladino](https://www.youtube.com/watch?v=fS6L5N5oiwE)
 
-## Ladino Text
+## Ladino Text (corpus)
 
 Ladino texts for reading and for extracting sentences to be used for the Ladino course on LibreLingo.
 
 * [Wikipedia in Ladino](https://lad.wikipedia.org/)
-* Songs
-* Books written in Ladino
+* Songs (See the music section)
+* Books written in Ladino (where can one find books?)
+* The [Ladinokomunita](https://ladinokomunita.groups.io/) email list has some good correspondence in Ladino and the various Facebook groups also contain text.
 
 ## Ladino scripts
 
+Ladino used to be written using various letters. These days most people write using Latin letters.
+
 * [Rashi script](https://en.wikipedia.org/wiki/Rashi_script)
 * [Solitreo](https://en.wikipedia.org/wiki/Solitreo)
+* Latin letters
+
 
 ## TODO
 
 * Work on the Ladino courses at LibreLingo. Get others who know the Language to help with the content and the sounds.
-* Create a platform for Ladino learners to talk to Ladino speakers and to Ladino teachers. (Encourage people to offer lessons on italki?)
-* Find a Ladino podcast. Create a podcast that includes the mp3 versions of many of the YouTube videos in Ladino or about Ladino. (need permissions from the video owners)
+* Create a platform for Ladino learners to talk to Ladino speakers and to Ladino teachers. (e.g. Encourage people to offer lessons on italki.)
+* Find a Ladino podcast. Create a podcast that includes the mp3 versions of many of the YouTube videos in Ladino or about Ladino. (This needs permissions from the video owners)
 
 * Collection of Ladino songs with lyrics and translations.
-* Collection of Ladino text read aloud by someone.
+* Collection of Ladino text read aloud by someone fluent in Ladino.
 * Interview series in Ladino people telling stories. (Video, or just sound with text that could be read)
 
-* Match people who would like to practice Ladino with people who already speak the language. (italki?)
 
 * Improve the content of [wikipedia in Ladino](https://lad.wikipedia.org/wiki/La_Primera_Hoja)
     * "articles" in [this list](https://en.wikipedia.org/wiki/List_of_Wikipedias)
