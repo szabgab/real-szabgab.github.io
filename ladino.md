@@ -151,8 +151,9 @@ Ladino texts for reading and for extracting sentences to be used for the Ladino 
 
 ## TODO
 
-* Work on the Ladino courses at LibreLingo.
-* Create a platform for Ladino learners to talk to Ladino speakers and to Ladino teachers. (use italki?)
+* Work on the Ladino courses at LibreLingo. Get others who know the Language to help with the content and the sounds.
+* Create a platform for Ladino learners to talk to Ladino speakers and to Ladino teachers. (Encourage people to offer lessons on italki?)
+* Find a Ladino podcast. Create a podcast that includes the mp3 versions of many of the YouTube videos in Ladino or about Ladino. (need permissions from the video owners)
 
 * Collection of Ladino songs with lyrics and translations.
 * Collection of Ladino text read aloud by someone.
