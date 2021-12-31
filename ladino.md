@@ -1,7 +1,7 @@
-# Ladino - aka. Judeo Spanish
+# Ladino - aka. Judeo-Spanish
 
 Ladino is the languages of the descendants of the Jews who were expelled from Spain in 1492.
-Others, espically the speakers call it Judeo-Espanyol or just Espanyol.
+Others, espically the speakers call it Djudeo-Espanyol or just Espanyol.
 
 See the wikipedia entry in English about [Ladino or Judeo-Spanish](https://en.wikipedia.org/wiki/Judaeo-Spanish).
 
@@ -34,7 +34,9 @@ but it can be interesting to read.
   and the [guide](https://forum.duolingo.com/comment/15014194) also [apply to be a contributor](https://incubator.duolingo.com/apply).
 * [italki](https://www.italki.com/i/EFbbfc?hl=en_us) has [no Ladino teachers](https://www.italki.com/teachers/ladino(judeospanish)).
   However I exchanged email with their support and as they have Ladino listed on their site one can apply to be a teacher or a community tutor.
-* [Ladino course on YouTube](https://www.youtube.com/watch?v=H8Pt-AS0ppM&list=PL26BCA5DA78235E0D) using Hebrew as the language of explanation.
+* Vini Echaremos Lashon - [Ladino course on YouTube](https://www.youtube.com/watch?v=H8Pt-AS0ppM&list=PL26BCA5DA78235E0D) using Hebrew as the language of explanation.
+  By the Autoridad Nasionala del Ladino i su Kultura
+
 * [Ladino 101 - A Beginner's Course](https://www.sephardicbrotherhood.com/ladino101) of The Sephardic Jewish Brotherhood of America
     * [Video recordings](https://www.youtube.com/watch?v=MTgs0VlkP_E&list=PLG7gXVhDoTAKrqy1jGn4QcQ4Mwk6YB8Tc&index=2)
     * [Karen Sarhon](https://jwa.org/encyclopedia/article/sarhon-karen)
