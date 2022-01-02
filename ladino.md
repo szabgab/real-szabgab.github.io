@@ -98,17 +98,18 @@ There are several Ladino-related Facebook groups and pages:
 
 ## Ladino music
 
-* [Yasmin Levy](https://www.yasminlevy.net/)
-* [Sarah Aroeste](https://saraharoeste.com/)  [Twitter](https://twitter.com/SarahAroeste)
-* [Mor Karbasi](https://www.morkarbasi.com/)
-* [LA SERENA - Sephardic Music - Ladino Love Song - Ke Guo](https://www.youtube.com/watch?v=gJjACC9O7kE)
+* [Avishai Cohen](https://avishaicohen.com/)
+* [Aviva Chernik](https://avivachernick.com/)
 * [Jewish music in The International Sephardi Music Festival in Cordoba- Ancient Groove](https://www.youtube.com/watch?v=T6itZDX3I6I)
-* [Tres de la Noche - Los Pasharos Sefaradis](https://www.youtube.com/watch?v=4JSLHVRJiRE)
+* [LA SERENA - Sephardic Music - Ladino Love Song - Ke Guo](https://www.youtube.com/watch?v=gJjACC9O7kE)
 * [Light in Babylon](https://www.lightinbabylon.com/)
 * [Maayan Band](https://www.maayanband.com/)
-* [Yamma Ensamble](https://yammaensemble.com/)
+* [Mor Karbasi](https://www.morkarbasi.com/)
 * [Nani Music](https://nanimusic.com/)
-* [Avishai Cohen](https://avishaicohen.com/)
+* [Sarah Aroeste](https://saraharoeste.com/)  [Twitter](https://twitter.com/SarahAroeste)
+* [Tres de la Noche - Los Pasharos Sefaradis](https://www.youtube.com/watch?v=4JSLHVRJiRE)
+* [Yamma Ensamble](https://yammaensemble.com/)
+* [Yasmin Levy](https://www.yasminlevy.net/)
 
 ## Films
 
