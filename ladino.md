@@ -12,6 +12,7 @@ but it can be interesting to read.
 
 * [Istanbul Sephardic Center](https://istanbulsephardiccenter.com/)  mostly in Trukish.
     * [El Amaneser](https://istanbulsephardiccenter.com/el-amaneser/) the Ladino newspaper
+* [Sephardic Center Istanbul](https://sephardiccenter.wordpress.com/)
 
 * [Sephardic Studies at the University of Washington](https://jewishstudies.washington.edu/sephardic-studies/) [Twitter](https://twitter.com/SephardicUW)
     * [The Sephardic Studies Digital Collection](https://content.lib.washington.edu/sephardicweb/index.html)
@@ -24,7 +25,6 @@ but it can be interesting to read.
 * [Ladino Israel](http://www.ladino-israel.org) (in Hebrew)
 * [Esefarad](https://esefarad.com/) Noticias del Mundo Sefaradí
 * [Greek Jews Holocaust Survivors](https://greekjewsholocaustsurvivors.art/)
-* [AKI YERUSHALAYIM](https://akiyerushalayim.com/)
 * [Los Shadarim](https://www.shadarim.com/) - A group of aktivists to advance the Judeo-Espanyol (aka. Ladino, Judeo-Spanish) language.
 * [Sepharadic Center of Istanbul](https://sefarad.com.tr/en/)
 
@@ -69,10 +69,19 @@ There are several Ladino-related Facebook groups and pages:
 * [Search for Ladino related groups](https://www.facebook.com/search/groups/?q=ladino)
 
 
-## Books - Literature in Ladino
+## Books and newspaper - Literature in Ladino
 
 * [Amazon](https://www.amazon.com/s?k=ladino&ref=nb_sb_noss_1) has a selection of various books under the search term **ladino**.
 * [El Kurtijo Enkantado](https://www.amazon.com/Kurtijo-Enkantado-Matilda-Koen-Sarano/dp/9944994960) by Matilda Koen-Sarano
+* [The Chaste Wife](https://www.amazon.com/Chaste-Wife-Elia-Karmona/dp/190551266X) by Eliyah Karmonah (I don't know if this book also contains the Ladino original or just the English translation)
+* [The Sephardic Tradition (Ladino and Spanish-Jewish Literature)](https://www.amazon.com/Sephardic-Tradition-Ladino-Spanish-Jewish-Literature/dp/B000NKB5DI)
+* [The Beginnings of Ladino Literature](https://www.amazon.com/Beginnings-Ladino-Literature-Almosnino-Sephardi/dp/0253025524) by Olga Borovaya (I think the book itself is in English)
+* The [Istanbul Sephardic Center](https://istanbulsephardiccenter.com/) seem to have some books an the
+    * Ladino newspaper [El Amaneser](https://istanbulsephardiccenter.com/el-amaneser/)
+* [Aki Yerushalayim](https://akiyerushalayim.com/)
+* Search for [Ladino](https://www.nli.org.il/en/newspapers/titles?lang=Ladinostartyear=1783endyear=2020) in The National Library of Israel
+* [Elia Karmona](https://en.wikipedia.org/wiki/Elia_Carmona)
+* [La Vara](https://en.wikipedia.org/wiki/La_Vara) - (The Stick), the longest running American Ladino newspaper in the [Library of Congress](https://www.loc.gov/item/sn91066432/)
 
 ## People
 
