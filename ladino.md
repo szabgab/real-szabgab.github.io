@@ -8,7 +8,6 @@ See the wikipedia entry in English about [Ladino or Judeo-Spanish](https://en.wi
 You can also tahe a look at the [Ladino version of the wikipedia](https://lad.wikipedia.org/) There are not many pages and most of them are rather short,
 but it can be interesting to read.
 
-
 * [Ladino at RAE](https://www.rae.es/search/node?keys=ladino&op.x=0&op.y=0) Real Academia Española   (Royal Spanish Academy)
 
 * [Istanbul Sephardic Center](https://istanbulsephardiccenter.com/)  mostly in Trukish.
@@ -27,6 +26,7 @@ but it can be interesting to read.
 * [Greek Jews Holocaust Survivors](https://greekjewsholocaustsurvivors.art/)
 * [AKI YERUSHALAYIM](https://akiyerushalayim.com/)
 * [Los Shadarim](https://www.shadarim.com/) - A group of aktivists to advance the Judeo-Espanyol (aka. Ladino, Judeo-Spanish) language.
+* [Sepharadic Center of Istanbul](https://sefarad.com.tr/en/)
 
 ## Learning resources
 
@@ -90,6 +90,8 @@ There are several Ladino-related Facebook groups and pages:
 * Dr. Carlos Yebra López
 * Mr. Alejandro Acero Ayuda
 * Rabbi Eliezer Papo
+* [Myriam Moscona](https://en.wikipedia.org/wiki/Myriam_Moscona)
+    * [Ansina](https://smile.amazon.com/Ansina-Myriam-Moscona/dp/8416193843/)
 
 * [Faculty works to preserve endangered Ladino language](https://www.binghamton.edu/news/story/2299/faculty-works-to-preserve-endangered-ladino-language)
 * [Documenting Judeo-Spanish](https://documentingjudeospanish.com/) through the cursive Solitreo writings of the Sephardim
@@ -108,6 +110,9 @@ There are several Ladino-related Facebook groups and pages:
 * [Nani Music](https://nanimusic.com/)
 * [Avishai Cohen](https://avishaicohen.com/)
 
+## Films
+
+* [The club](https://www.netflix.com/title/81257567) on Netflix
 
 ## Ladino dictionary
 
