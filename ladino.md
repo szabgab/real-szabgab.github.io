@@ -48,7 +48,8 @@ but it can be interesting to read.
 * [Beginner's Ladino](https://www.amazon.com/Beginners-Ladino-Spanish-English-Markova-ebook/dp/B003554D7S/) by Alla Markova
 * [Diccionario básico Ladino - Español](https://www.amazon.com/Diccionario-básico-Ladino-Español-Biblioteca-ebook/dp/B00Y8RYD72/) - Basic Ladino-Spanish dictionary
 
-* [How and where to learn Ladino?](https://www.myjewishlearning.com/article/how-to-learn-ladino/)
+* [How and where to learn Ladino?](https://www.myjewishlearning.com/article/how-to-learn-ladino/) by [Sarah Aroeste](https://saraharoeste.com/)
+
 
 There are several Universities that offer Ladino in some way:
 
