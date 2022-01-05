@@ -27,6 +27,7 @@ but it can be interesting to read.
 * [Greek Jews Holocaust Survivors](https://greekjewsholocaustsurvivors.art/)
 * [Los Shadarim](https://www.shadarim.com/) - A group of aktivists to advance the Judeo-Espanyol (aka. Ladino, Judeo-Spanish) language.
 * [Sepharadic Center of Istanbul](https://sefarad.com.tr/en/)
+* [KolSefardim](https://www.kolsefardim.net/)
 
 ## Learning resources
 
