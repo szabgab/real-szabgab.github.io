@@ -18,7 +18,7 @@ but it can be interesting to read.
     * [The Sephardic Studies Digital Collection](https://content.lib.washington.edu/sephardicweb/index.html)
     * [Devin E. Naar](http://devinenaar.com/) The Isaac Alhadeff Professor in Sephardic Studies, Associate Professor of History & Jewish Studies, Jackson School of International Studies, University of Washington
 * [Sephardic Brotherhood](https://www.sephardicbrotherhood.com/) The Sephardic Jewish Brotherhood of America - La Ermandad Sefaradi [Twitter](https://twitter.com/SephardicBrothe)
-* [Ladino 21](https://en.ladino21.org/) [Twitter](https://twitter.com/LadinoXXI) [YouTube](https://www.youtube.com/channel/UCbXGQJkl9WL1DnJM8Je0RRg)
+* [Ladino 21](https://en.ladino21.org/) [Twitter](https://twitter.com/LadinoXXI)
     * There are both courses and private classes on Ladino 21
     * [American Sephardi Federation (ASF)](https://americansephardi.org/) [Twitter](https://twitter.com/AmericanSephard)
 * [Centro Sefarad Israel](http://www.casasefarad-israel.es/)
@@ -169,6 +169,13 @@ Ladino used to be written using various letters. These days most people write us
 * [Rashi script](https://en.wikipedia.org/wiki/Rashi_script)
 * [Solitreo](https://en.wikipedia.org/wiki/Solitreo)
 * Latin letters
+
+## YouTube Channels
+
+* [Ladino 21](https://www.youtube.com/channel/UCbXGQJkl9WL1DnJM8Je0RRg)
+* [Autoridad Nasionala del Ladino i su Kultura](https://www.youtube.com/user/AutoridadLadino)
+* [Sephardic Brotherhood](https://www.youtube.com/c/SephardicBrotherhood)
+* [eSefarad](https://www.youtube.com/c/eSefarad) Noticias del Mundo Sefaradi
 
 
 ## TODO
