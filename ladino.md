@@ -177,6 +177,12 @@ Ladino used to be written using various letters. These days most people write us
 * [Sephardic Brotherhood](https://www.youtube.com/c/SephardicBrotherhood)
 * [eSefarad](https://www.youtube.com/c/eSefarad) Noticias del Mundo Sefaradi
 
+## Radio
+
+* [Kaan Ladino](https://www.kan.org.il/radio/program.aspx/?progId=1135) - The weekly radio program of the Israeli radio. Partially in Ladino, partially in Hebrew.
+
+## Podcast
+
 
 ## TODO
 
