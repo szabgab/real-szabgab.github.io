@@ -28,6 +28,7 @@ but it can be interesting to read.
 * [Los Shadarim](https://www.shadarim.com/) - A group of aktivists to advance the Judeo-Espanyol (aka. Ladino, Judeo-Spanish) language.
 * [Sepharadic Center of Istanbul](https://sefarad.com.tr/en/)
 * [KolSefardim](https://www.kolsefardim.net/)
+* [Diario Judio](https://diariojudio.com/) Mostly in modern Spanish, partially in [Ladino](https://diariojudio.com/categoria/idioma/djudeo-espanyol/)
 
 ## Learning resources
 
@@ -121,6 +122,7 @@ There are several Ladino-related Facebook groups and pages:
 * [Tres de la Noche - Los Pasharos Sefaradis](https://www.youtube.com/watch?v=4JSLHVRJiRE)
 * [Yamma Ensamble](https://yammaensemble.com/)
 * [Yasmin Levy](https://www.yasminlevy.net/)
+* [Shira Utfila](https://www.youtube.com/channel/UCjjNFKpibpIYv4WgkcceUCg)
 
 ## Films
 
