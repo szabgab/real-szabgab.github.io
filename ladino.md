@@ -178,6 +178,7 @@ Ladino used to be written using various letters. These days most people write us
 * [Autoridad Nasionala del Ladino i su Kultura](https://www.youtube.com/user/AutoridadLadino)
 * [Sephardic Brotherhood](https://www.youtube.com/c/SephardicBrotherhood)
 * [eSefarad](https://www.youtube.com/c/eSefarad) Noticias del Mundo Sefaradi
+* [Salti Institute](https://www.youtube.com/channel/UCUwnvleXMD5DWhgcpbp0U0w)
 * [Eliezer Papo](https://www.youtube.com/c/EliezerPapoSFRJ)
 
 ## Radio
