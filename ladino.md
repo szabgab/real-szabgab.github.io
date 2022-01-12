@@ -185,11 +185,12 @@ Ladino used to be written using various letters. These days most people write us
 ## Radio
 
 * [Kaan Ladino](https://www.kan.org.il/radio/program.aspx/?progId=1135) - The weekly radio program of the Israeli radio. Partially in Ladino, partially in Hebrew.
+  You can also listen to earlier episodes.
 
 ## Podcast
 
-* [Emision en Sefaradi](https://www.rtve.es/play/audios/emision-en-sefardi/) de RTVE
-* [Kamino Sefarado](https://radiorcj.info/emissions/kamino-sefarad/) de las Vidas Largas.
+* [Emision en Sefaradi](https://www.rtve.es/play/audios/emision-en-sefardi/) de RTVE [RSS](http://www.rtve.es/api/programas/33758/audios.rss)
+* [Kamino Sefarado](https://radiorcj.info/emissions/kamino-sefarad/) de las Vidas Largas. [RSS](https://radiorcj.info/emissions/kamino-sefarad/?flux=rss)
 
 
 ## TODO
