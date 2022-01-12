@@ -182,10 +182,12 @@ Ladino used to be written using various letters. These days most people write us
 * [Salti Institute](https://www.youtube.com/channel/UCUwnvleXMD5DWhgcpbp0U0w)
 * [Eliezer Papo](https://www.youtube.com/c/EliezerPapoSFRJ)
 
+* You can download videos to your mobile phone using the YouTube application and then you can watch or listen to the off-line.
+
 ## Radio
 
 * [Kaan Ladino](https://www.kan.org.il/radio/program.aspx/?progId=1135) - The weekly radio program of the Israeli radio. Partially in Ladino, partially in Hebrew.
-  You can also listen to earlier episodes.
+  You can also listen to earlier episodes. You can use their application as well, but no RSS feed and no way to listen to the episodes off-line.
 
 ## Podcast
 
