@@ -29,6 +29,7 @@ but it can be interesting to read.
 * [Sepharadic Center of Istanbul](https://sefarad.com.tr/en/)
 * [KolSefardim](https://www.kolsefardim.net/)
 * [Diario Judio](https://diariojudio.com/) Mostly in modern Spanish, partially in [Ladino](https://diariojudio.com/categoria/idioma/djudeo-espanyol/)
+* [Vidas Largas](https://sites.google.com/view/vidaslargas/) A group of French and Ladino speakers.
 
 ## Learning resources
 
@@ -186,6 +187,9 @@ Ladino used to be written using various letters. These days most people write us
 * [Kaan Ladino](https://www.kan.org.il/radio/program.aspx/?progId=1135) - The weekly radio program of the Israeli radio. Partially in Ladino, partially in Hebrew.
 
 ## Podcast
+
+* [Emision en Sefaradi](https://www.rtve.es/play/audios/emision-en-sefardi/) de RTVE
+* [Kamino Sefarado](https://radiorcj.info/emissions/kamino-sefarad/) de las Vidas Largas.
 
 
 ## TODO
