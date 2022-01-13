@@ -61,7 +61,7 @@
 
 ## Languages
 
-* [Ladino](ladino.md)
+* [Ladino](https://ladino.szabgab.com/)
 * [Yiddish](yiddish.md)
 * [Hebrew](hebrew.md)
 
