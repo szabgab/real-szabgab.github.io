@@ -96,4 +96,5 @@
 * [Artists 4 Israel](https://www.artists4israel.org/)
 
 
+* [Sefaria](https://www.sefaria.org.il/) web site and mobile application to read Jewish texts. I think for now only in Hebrew and in English.
 
