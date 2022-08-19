@@ -31,3 +31,5 @@ Author of a [number of tech books](https://leanpub.com/u/szabgab).
 * [Ladino](https://ladino.szabgab.com/)
 * [Yiddish](/yiddish)
 * [Hebrew](/hebrew)
+
+* [Squash in Israel]
