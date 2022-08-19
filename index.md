@@ -32,4 +32,4 @@ Author of a [number of tech books](https://leanpub.com/u/szabgab).
 * [Yiddish](/yiddish)
 * [Hebrew](/hebrew)
 
-* [Squash in Israel]
+* [Squash in Israel](/squash)
