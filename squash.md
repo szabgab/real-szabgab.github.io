@@ -7,8 +7,8 @@
 
 ## Courts / Clubs
 
-The information here isonly norder to get a taste of what it might look like. For the up-to-date prices and information
-check the respective court/club.
+The information here is only presented to get a taste of what it might look like. For the up-to-date prices and information
+check the respective courts/clubs.
 
 * Herzelya [Squash Center Herzelya](https://squash-il.co.il/) 8 courts
     * [Facebook](https://www.facebook.com/israelsquash)
@@ -56,7 +56,15 @@ Each entrance is valid for 2 hours. No need to register for the court.
 
 ## Videos (in Hebrew)
 
+* [ליגת סקווש 2012](https://www.youtube.com/watch?v=ve5B8vNLNa4)
+* [גמר ליגת ISPO 2013](https://www.youtube.com/watch?v=lt7rJnQj2k8)
+* [גרופון: מרכז הסקווש רעננה 2012](https://www.youtube.com/watch?v=HEKurjId-2M)
+* [מרכז הסקווש רעננה 2019](https://www.youtube.com/watch?v=OMcd3gGZubQ)
 
+## Videos
+
+* [Better Squash](https://www.youtube.com/c/BetterSquash) with Phillip Marlowe
+* [PSA SquashTV](https://www.youtube.com/psasquashtv)
 
 ## Phrases
 
