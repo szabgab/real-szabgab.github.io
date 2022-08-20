@@ -63,8 +63,17 @@ Each entrance is valid for 2 hours. No need to register for the court.
 
 ## Videos
 
-* [Better Squash](https://www.youtube.com/c/BetterSquash) with Phillip Marlowe
-* [PSA SquashTV](https://www.youtube.com/psasquashtv)
+* Phillip Marlowe at [Better Squash](https://bettersquash.com/) has plenty of [videos](https://www.youtube.com/c/BetterSquash)
+    * for beginners before they [start to play](https://www.youtube.com/playlist?list=PLSlfdwgI6MBnjp_EyyTy_wl6mGHMZdHxn)
+    * for beginners to practice at [home alone](https://www.youtube.com/playlist?list=PLSlfdwgI6MBmhV6rF6FY15i5BkFeN-pb9)
+    * for all levels to practice [solo on court](https://www.youtube.com/playlist?list=PLSlfdwgI6MBnMQXTTQDwH5DihTEclAQrX)
+    * [Techniques and skills](https://www.youtube.com/playlist?list=PLSlfdwgI6MBmNN0Fu-1ip65P_AzRwxMTW) (at home or on court)
+
+* [PSA SquashTV](https://www.youtube.com/psasquashtv) games, interviews etc.
+
+* Zoe Aust [Squash training](https://www.youtube.com/playlist?list=PLcQhbSS33kOfc4Eu_JjT6Cmz7sqlzFrFI)
+
+* [SeriousSquash](https://www.youtube.com/c/SeriousSquash)
 
 ## Phrases
 
