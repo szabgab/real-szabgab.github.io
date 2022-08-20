@@ -28,8 +28,9 @@ Author of a [number of tech books](https://leanpub.com/u/szabgab).
 * The [PyWeb-IL](https://pyweb-il.github.io/) is on GitHub pages. It used Markdown. [source](https://github.com/PyWeb-IL/PyWeb-IL.github.io)
 
 * [Jewish languages and culture](/jewish)
-* [Ladino](https://ladino.szabgab.com/)
+* [Ladino](https://kantoniko.com/)
 * [Yiddish](/yiddish)
 * [Hebrew](/hebrew)
+* [Hungarian](/hungarian)
 
 * [Squash in Israel](/squash)
