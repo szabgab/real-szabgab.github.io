@@ -46,6 +46,7 @@ Each entrance is valid for 2 hours. No need to register for the court.
 
 * Tel Aviv - [Neve Sharet](https://www.tel-aviv.gov.il/Residents/CommunityAndSports/Pages/NeveSharet.aspx?IccID=64)
     * The [glass courts](https://www.squashisrael.co.il/glasscourtstlv)
+    * 40 NIS / person (but it is not clear for how long and the application first expects the payment even before you select the date or before you can check the availability of the courts.
 
 
 ## Trainers
