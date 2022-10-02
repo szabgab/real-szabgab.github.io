@@ -80,6 +80,8 @@ Each entrance is valid for 2 hours. No need to register for the court.
 
 * [SeriousSquash](https://www.youtube.com/c/SeriousSquash)
 
+* [Frans Otten Stadion](https://www.youtube.com/c/FransOttenStadion/videos) - a lot of squash games among people who arn't ranked among the first 10 in the world.
+
 ## Phrases
 
 * racket - מחבט
