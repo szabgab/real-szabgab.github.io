@@ -23,6 +23,7 @@ Few American communities worship the university as fervently as American Jews do
 
 * [Harvard surrenders to the antisemites](https://www.jns.org/opinion/harvard-surrenders-to-the-antisemites/) by Jonathan S. Tobin  (the Kenneth Roth case)
 
+* [Dangerous coping mechanisms: Jews are self-harming, not fighting antisemitism](https://www.jpost.com/opinion/article-729214)
 
 * [Damour massacre](https://en.wikipedia.org/wiki/Damour_massacre)
 On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Lebanese Christians in Damour, Lebanon 🇱🇧. They gang-raped the women and shot the babies at close range. The PLO ethnically cleansed the town and took possession.
