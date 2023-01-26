@@ -25,5 +25,7 @@ Few American communities worship the university as fervently as American Jews do
 
 * [Dangerous coping mechanisms: Jews are self-harming, not fighting antisemitism](https://www.jpost.com/opinion/article-729214)
 
+* [Leaving Libya ](https://nivmag.com/leaving-libya/) at [JIMENA](https://www.jimena.org/)
+
 * [Damour massacre](https://en.wikipedia.org/wiki/Damour_massacre)
 On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Lebanese Christians in Damour, Lebanon 🇱🇧. They gang-raped the women and shot the babies at close range. The PLO ethnically cleansed the town and took possession.
