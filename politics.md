@@ -29,3 +29,14 @@ Few American communities worship the university as fervently as American Jews do
 
 * [Damour massacre](https://en.wikipedia.org/wiki/Damour_massacre)
 On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Lebanese Christians in Damour, Lebanon 🇱🇧. They gang-raped the women and shot the babies at close range. The PLO ethnically cleansed the town and took possession.
+
+
+
+* [Britain is still unwilling to confront Islamist extremism](http://www.sedaa.org/2021/10/britain-is-still-unwilling-to-confront-islamist-extremism/) by  Khadija Khan
+
+
+## Twitter threads
+
+* [sidelocks](https://twitter.com/ZechariahSharab/status/1607744152359546884) by Zechariah Shar'abi
+* [So you've been caught spewing antisemitic hatred online: A guide for journalists who feel they've been "silenced" by the "Zionist lobby"](https://twitter.com/emanumiller/status/1577798473222688768) by Emanuel Miler
+* [It is estimated the Palestinians have received more than four times the aid per capita than all of Europe received under the Marshall Plan.](https://twitter.com/blakeflayton/status/1545505937661755393) [Palestinian Foreign Aid: U.S. Aid to PA Exceeds Marshall Plan Aid to Europe](https://www.jewishvirtuallibrary.org/u-s-aid-to-pa-exceeds-marshall-plan-aid-to-europe) by Dr. Patrick Clawson (Updated 2002)
