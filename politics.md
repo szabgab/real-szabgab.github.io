@@ -44,4 +44,5 @@ On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Leb
 * [It is estimated the Palestinians have received more than four times the aid per capita than all of Europe received under the Marshall Plan.](https://twitter.com/blakeflayton/status/1545505937661755393) [Palestinian Foreign Aid: U.S. Aid to PA Exceeds Marshall Plan Aid to Europe](https://www.jewishvirtuallibrary.org/u-s-aid-to-pa-exceeds-marshall-plan-aid-to-europe) by Dr. Patrick Clawson (Updated 2002)
 
 * [David Baddiel reflecting on Joe Rogan saying Jewish people are into money](https://twitter.com/Baddiel/status/1622896710887305216)
+* [Promotional video if Gaza](https://twitter.com/trtworld/status/1119214362852515841)
 
