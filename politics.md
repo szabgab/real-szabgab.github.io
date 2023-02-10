@@ -36,6 +36,8 @@ On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Leb
 
 * [Britain is still unwilling to confront Islamist extremism](http://www.sedaa.org/2021/10/britain-is-still-unwilling-to-confront-islamist-extremism/) by  Khadija Khan
 
+* [Wikipedia’s Intentional Distortion of the History of the Holocaust](https://www.tandfonline.com/doi/full/10.1080/25785648.2023.2168939)
+
 
 ## Twitter threads
 
