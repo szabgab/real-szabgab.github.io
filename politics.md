@@ -32,6 +32,7 @@ On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Leb
 
 * [Ten American Celebrities who are ‘Palestinian Refugees’ according to UN](https://www.israel365news.com/332654/ten-american-celebrities-palestinian-refugees-according-un/)
 
+* [No Palestinian land was ever stolen!](https://www.weeklyblitz.net/opinion/no-palestinian-land-was-ever-stolen/) Some legal aspects
 
 
 * [Britain is still unwilling to confront Islamist extremism](http://www.sedaa.org/2021/10/britain-is-still-unwilling-to-confront-islamist-extremism/) by  Khadija Khan
