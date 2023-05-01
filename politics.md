@@ -39,7 +39,7 @@ On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Leb
 
 * [Wikipedia’s Intentional Distortion of the History of the Holocaust](https://www.tandfonline.com/doi/full/10.1080/25785648.2023.2168939)
 
-* [15 lies of Amnesty in 15 minutes](https://twitter.com/CAMERAorg/status/1648341170626412544) by [Camera.org](https://www.camera.org/)
+* [15 lies of Amnesty in 15 minutes](https://twitter.com/CAMERAorg/status/1648341170626412544) by [Camera.org](https://www.camera.org/) See also an article [Amnesty International’s Big Lie about Israel](https://www.camera.org/article/amnesty-internationals-big-lie-about-israel/)
 
 
 ## Twitter threads
