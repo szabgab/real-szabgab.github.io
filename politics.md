@@ -44,6 +44,8 @@ On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Leb
 
 ## Twitter threads
 
+* [Imshin Haphazard amateur Gaza-watcher.](https://twitter.com/imshin)
+
 * [sidelocks](https://twitter.com/ZechariahSharab/status/1607744152359546884) by Zechariah Shar'abi
 * [So you've been caught spewing antisemitic hatred online: A guide for journalists who feel they've been "silenced" by the "Zionist lobby"](https://twitter.com/emanumiller/status/1577798473222688768) by Emanuel Miler
 * [It is estimated the Palestinians have received more than four times the aid per capita than all of Europe received under the Marshall Plan.](https://twitter.com/blakeflayton/status/1545505937661755393) [Palestinian Foreign Aid: U.S. Aid to PA Exceeds Marshall Plan Aid to Europe](https://www.jewishvirtuallibrary.org/u-s-aid-to-pa-exceeds-marshall-plan-aid-to-europe) by Dr. Patrick Clawson (Updated 2002)
