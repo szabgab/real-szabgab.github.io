@@ -43,6 +43,9 @@ On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Leb
 
 * [The tragedy of the Palestinians](https://www.spiked-online.com/2023/05/15/the-tragedy-of-the-palestinians/)
 
+* [MEMRI](https://www.memri.org/)
+* [MEMRI TV Videos](https://www.youtube.com/@memritvvideos3699)
+
 ## Twitter threads
 
 * [Imshin Haphazard amateur Gaza-watcher.](https://twitter.com/imshin)
