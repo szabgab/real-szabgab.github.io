@@ -41,6 +41,7 @@ On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Leb
 
 * [15 lies of Amnesty in 15 minutes](https://twitter.com/CAMERAorg/status/1648341170626412544) by [Camera.org](https://www.camera.org/) See also an article [Amnesty International’s Big Lie about Israel](https://www.camera.org/article/amnesty-internationals-big-lie-about-israel/)
 
+* [The Nakba Narrative is Nonsense](https://www.camera.org/article/nakba-narrative-is-nonsense/)
 * [The tragedy of the Palestinians](https://www.spiked-online.com/2023/05/15/the-tragedy-of-the-palestinians/)
 
 * [MEMRI](https://www.memri.org/)
