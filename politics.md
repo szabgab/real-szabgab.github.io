@@ -47,6 +47,8 @@ On January 20 in 1976, Palestinian terrorists massacred hundreds of innocent Leb
 * [MEMRI](https://www.memri.org/)
 * [MEMRI TV Videos](https://www.youtube.com/@memritvvideos3699)
 
+* [Dr. Einat Wilf - The War of Return](https://www.youtube.com/watch?v=nKpKGCfPEaQ) video
+
 ## Twitter threads
 
 * [Imshin Haphazard amateur Gaza-watcher.](https://twitter.com/imshin)
