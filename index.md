@@ -32,6 +32,8 @@ Author of a [number of tech books](https://leanpub.com/u/szabgab).
 
 ## Languages
 
+* [Rust](/rust-in-israel)
+
 * [Hungarian](/hungarian)
 * [Spanish](https://szabgab.com/spanish.html)
 
