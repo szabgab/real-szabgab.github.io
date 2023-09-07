@@ -6,10 +6,10 @@
 </style>
 
 <table>
-<tr><td>yo</td><td class="rashi">יו</td></tr>
+<tr><td>yo</td><td class="rashi">ייו</td></tr>
 <tr><td>tu</td><td class="rashi">טו</td></tr>
-<tr><td>el</td><td class="rashi">אל</td></tr>
-<tr><td>eya</td><td class="rashi">איה</td></tr>
+<tr><td>el</td><td class="rashi">איל</td></tr>
+<tr><td>eya</td><td class="rashi">אילייה</td></tr>
 <tr><td>mozotros</td><td class="rashi">מוזוטרוס</td></tr>
 <tr><td>mozotras</td><td class="rashi">מוזוטראס</td></tr>
 <tr><td>vozotros</td><td class="rashi">וזוטרוס</td></tr>
