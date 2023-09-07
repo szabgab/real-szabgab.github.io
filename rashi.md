@@ -18,4 +18,5 @@
 <tr><td>eyas</td><td class="rashi">איאס</td></tr>
 <tr><td>ermano</td><td class="rashi">ארמנו</td></tr>
 <tr><td>abashar</td><td class="rashi">אבאשאר</td></tr>
+<tr><td>madre</td><td class="rashi">מאדרי</td></tr>
 </table>
