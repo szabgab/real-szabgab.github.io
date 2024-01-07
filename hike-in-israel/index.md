@@ -58,6 +58,8 @@
 * [Ein Avdat plan](https://israelhiking.osm.org.il/share/HOLof5ap2K)
 * [Kinneret Courtyard (Hatzar Kinneret)](https://shimur.org/sites/kinneret-courtyard-hatzar-kinneret/?lang=en)
 
+* [נחל עזגד אשלים](https://www.deadsea.co.il/%D7%A0%D7%97%D7%9C-%D7%A2%D7%96%D7%92%D7%93-%D7%90%D7%A9%D7%9C%D7%99%D7%9D-%D7%97%D7%92%D7%99%D7%92%D7%AA-%D7%9E%D7%99%D7%9D-%D7%91%D7%9E%D7%93%D7%91%D7%A8/)
+
 ## Hungarian
 
 * [Barangló](http://barangolo.shalom-olim.com/)
