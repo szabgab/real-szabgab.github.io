@@ -7,7 +7,7 @@ Helping teams on their journey to faster and more stable software development.
 
 Helping with CI/CD, Test Automation, Containers, Cloud system. DevOps, if you wish.
 
-Author of the [Code Maven](https://code-maven.com/) site, the [Perl Tutorial](https://perlmaven.com/perl-tutorial) on the [Perl Maven site](https://perlmaven.com/).
+Author of the [Rust Maven](https://rust.code-maven.com/), [Code Maven](https://code-maven.com/) sites, the [Perl Tutorial](https://perlmaven.com/perl-tutorial) on the [Perl Maven site](https://perlmaven.com/).
 Chief editor of the [Perl Weekly](http://perlweekly.com/).
 
 Author of a [number of tech books](https://leanpub.com/u/szabgab).
@@ -40,7 +40,8 @@ Author of a [number of tech books](https://leanpub.com/u/szabgab).
 * [Yiddish](/yiddish)
 * [Hebrew](/hebrew)
 
-* [Squash in Israel](/squash)
+* [Squash in Israel](https://szabgab.com/squash)
+* [Hungarian food in Hebrew](https://szabgab.com/hungary-in-hebrew)
 
 
 
