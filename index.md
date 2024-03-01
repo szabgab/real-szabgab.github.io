@@ -42,9 +42,5 @@ Author of a [number of tech books](https://leanpub.com/u/szabgab).
 
 * [Squash in Israel](/squash)
 
-## Budapest / Hungary
-
-[What to eat in Budapest with explanations in Hebrew](/hungary-hebrew)
-
 
 
