@@ -48,3 +48,17 @@ Using 3 backticks before and 3 backticks after
     Using 3 backticks before and 3 backticks after
     ```
 
+## Triple backtick in a line
+
+```this is some code```
+
+## Triple backtick in the middle of line
+
+before ```this is some code``` after
+
+
+
+
+
+
+
