@@ -48,11 +48,13 @@ Using 3 backticks before and 3 backticks after
     Using 3 backticks before and 3 backticks after
     ```
 
-## Triple backtick in a line
+## Experiements
+
+### Triple backtick in a line - considered code
 
 ```this is some code```
 
-## Triple backtick in the middle of line
+### Triple backtick in the middle of line - considered code
 
 before ```this is some code``` after
 
