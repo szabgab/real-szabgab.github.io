@@ -7,3 +7,4 @@
 * [Walk About Love](http://walkaboutlove.org.il/) organized hike of the Israel National trail
 
 
+* [Excellent about the trail, but only in Hebrew](https://www.teva.org.il/israel-national-trail)
