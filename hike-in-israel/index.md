@@ -1,7 +1,5 @@
 # Hike in Israel
 
-* [Our Meetup group](https://www.meetup.com/Hiking-in-Israel/)
-
 * [Hiking ideas](hiking-ideas)
 * [Survey](survey-2017-12)
 * [Announcement Skeleton](announcement-skeleton)
