@@ -1,8 +1,21 @@
 # theme: jekyll-theme-cayman
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-leap-day
+# jekyll-theme-hacker
+# jekyll-theme-midnight
+# jekyll-theme-primer
+# jekyll-theme-merlot
+# jekyll-theme-slate
+# jekyll-theme-tactile
+# jekyll-theme-time-machine
+
 title: "GitHub Page of Gábor Szabó"
 show_downloads: false
 plugins:
   - jekyll-remote-theme
 
-#remote_theme: mmistakes/minimal-mistakes
-remote_theme: "chirpy-dev/chirpy"
+# remote_theme: mmistakes/minimal-mistakes
+# remote_theme: "chirpy-dev/chirpy"   # not found
+remote_theme: "just-the-docs/just-the-docs"
+# remote_theme: "daattali/beautiful-jekyll"
+# remote_theme: "mmistakes/so-simple-theme"
