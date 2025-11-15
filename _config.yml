@@ -1,3 +1,7 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 title: "GitHub Page of Gábor Szabó"
 show_downloads: false
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: Example: mmistakes/minimal-mistakes
