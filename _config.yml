@@ -18,6 +18,6 @@ plugins:
 
 # remote_theme: mmistakes/minimal-mistakes     # Unknown tag 'include_cached'
 # remote_theme: "chirpy-dev/chirpy"            # not found
-remote_theme: "just-the-docs/just-the-docs"  # Error: File to import not found or unreadable: just-the-docs.
-# remote_theme: "daattali/beautiful-jekyll"
+# remote_theme: "just-the-docs/just-the-docs"
+remote_theme: "daattali/beautiful-jekyll"
 # remote_theme: "mmistakes/so-simple-theme"
