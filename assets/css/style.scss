@@ -1,8 +1,10 @@
 ---
 ---
 
-
+/*
 @import "{{ site.theme }}";
+*/
+@import "{{ site.remote_theme }}";
 
 
 /* 
