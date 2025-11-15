@@ -4,4 +4,4 @@ show_downloads: false
 plugins:
   - jekyll-remote-theme
 
-remote_theme: Example: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
